@@ -80,7 +80,7 @@ git clone https://github.com/j-ackie/street-scrapper.git
 ## Unit Tests
 Unit tests for player movement, player damage, projectile collisions, and game state progression can be found in `test/model_test.cxx`.
 
-- **Test #1:** Game progresses correctly from the start screen to the after-match screen
+- **Test #1:** Game progresses correctly from the start screen to the after-match screen.
 - **Test #2:** Two opposing players' projectiles are destroyed when they collide. A player's projectile gets destroyed when it goes off screen.
 - **Test #3:** A player moves the correct amount of distance when they walk or jump a certain direction.
 - **Test #4:** The correct winner is decided (player 1) when the timer runs out and player 1 has more health.
