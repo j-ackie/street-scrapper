@@ -75,7 +75,7 @@ Player 1 can use the X key and player 2 can use the J key to return back to the 
 git clone https://github.com/j-ackie/street-scrapper.git
 ```
 2. Open the directory where the repository was cloned to.
-3. Run the executable `cmake-build-debug/game`.
+3. Run the executable `game`.
 
 ## Unit Tests
 Unit tests for player movement, player damage, projectile collisions, and game state progression can be found in `test/model_test.cxx`.
