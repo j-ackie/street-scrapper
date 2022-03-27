@@ -30,7 +30,7 @@ Players use the following set of controls in the character select screen:
 
 ![Map select](https://i.imgur.com/74g40Xk.gif)
 
-In the map select screen, 4 maps are displayed. Each player can choose one. If both players choose the same map, then that map will be played. However, if both players choose differing maps, then a map is randomly seleccted between the two maps that the two players chose.
+In the map select screen, 4 maps are displayed. Each player can choose one. If both players choose the same map, then that map will be played. However, if both players choose differing maps, then a map is randomly selected between the two maps that the two players chose.
 
 Players use the following set of controls in the map select screen:
 
